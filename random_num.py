@@ -1,6 +1,6 @@
 import random
 
-answer = random.randint(1,5)
+answer = random.randint(1,10)
 
 while True:
     try:
